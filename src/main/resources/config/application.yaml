@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+  application:
+    name: dndmarket-svc
+  datasource:
+    url: "${sql_conn_string}"
+    username: "${sql_username}"
+    password: "${sql_password}"
