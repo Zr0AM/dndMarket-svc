@@ -1,5 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:sqlserver://Neptune\\dndMarketDev:11001;databaseName=dndmarket;encrypt=true;trustServerCertificate=true
-    username: devAdmin
-    password: '0{hqEz9NC]<6J.i5'
